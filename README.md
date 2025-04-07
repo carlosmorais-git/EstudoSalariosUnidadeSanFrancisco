@@ -3,6 +3,9 @@
 ## Contexto
 Este projeto fictício simula um desafio proposto pelo CEO da Hidden Analysis, que solicitou uma análise urgente sobre os dados salariais da unidade de San Francisco. A missão: extrair insights relevantes a partir de um banco de dados SQL, com o prazo de entrega para o dia seguinte. Mesmo sendo um projeto hipotético, tratei com o mesmo comprometimento e rigor de um case real.
 
+![image](https://github.com/user-attachments/assets/a96fc467-b5b9-4da0-8bf6-8c24dbc77c6f)
+
+
 ## Objetivo
 Responder a uma série de perguntas estratégicas:
 - Como evoluiu o **salário médio** ao longo dos anos (TotalPay e TotalPayBenefits)?
@@ -37,6 +40,9 @@ Responder a uma série de perguntas estratégicas:
 
 ## Conclusão e Reflexões
 Mais do que responder a perguntas, este projeto teve um viés estratégico: cada gráfico e insight foi apresentado como se fosse parte de uma conversa com o CEO, explicando os impactos de cada métrica para a gestão de pessoas e planejamento financeiro da organização.
+
+![image](https://github.com/user-attachments/assets/7f4ab06f-3010-451e-b332-072f52aa9791)
+
 
 A análise preditiva foi um diferencial que trouxe visão de futuro, algo essencial para empresas que querem se antecipar às tendências e não apenas reagir a elas.
 
